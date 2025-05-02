@@ -170,7 +170,7 @@ button .button-submain {
 
     padding: 22px;
 
-    background-image: url('assets/images/the-formula-bg.webp');
+    background-image: url('./assets/images/the-formula-bg.webp');
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
